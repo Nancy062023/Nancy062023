@@ -1,3 +1,4 @@
+![logo](https://github.com/Nancy062023/Nancy062023/blob/main/1711431970518.png)
 <h1 align="center">Hi 👋, I'm Pragya Raj</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
