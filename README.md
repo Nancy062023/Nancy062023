@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nancy062023" alt="nancy062023" /></a> </p>
 
-- 🔭 I’m currently working on **Dream-sky-tech**
+- 🔭 I’m currently working on **Diglip-7 Pvt Ltd**
 
 - 🌱 I’m currently learning **I’m currently learning MERN**
 
